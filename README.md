@@ -1,1 +1,1 @@
-# awesome-chocolates-sales-dashboard-powerbi
+# Awesome Chocolates Sales Dashboard (Power BI)
