@@ -12,15 +12,15 @@ The dashboard is designed to support **monthly business review meetings** by off
 
 ### Sales Performance Report
 
-![Sales Dashboard Screenshot 1](./screenshots/Screenshot 2025-06-26 111654.png)
+![Sales Dashboard Screenshot 1](./screenshots/1.png)
 
 ### Dynamic MoM KPIs & Visuals
 
-![Sales Dashboard Screenshot 2](./screenshots/Screenshot 2025-06-26 111720.png)
+![Sales Dashboard Screenshot 2](./screenshots/2.png)
 
 ### Country-wise Contribution & Breakdown
 
-![Sales Dashboard Screenshot 3](./screenshots/Screenshot 2025-06-26 111808.png)
+![Sales Dashboard Screenshot 3](./screenshots/3.png)
 
 ---
 
