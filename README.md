@@ -38,7 +38,7 @@ The dashboard is built using multiple interconnected tables following a **star s
 
 ---
 
-## 💡 Features / Insights Shown
+## Features / Insights Shown
 
 - **Total Sales, Costs, Boxes, and Shipments**
 - **Profit & Profit %** with conditional formatting
