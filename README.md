@@ -1,4 +1,4 @@
-# Awesome Chocolates Sales Dashboard
+# Chocolates Sales Dashboard
 
 ## Project Overview
 
